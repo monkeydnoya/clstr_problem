@@ -1,0 +1,15 @@
+user1,user1name,user2,user2name,amount
+1,vanya,2,petya,100
+2,petya,3,lesha,200
+4,katya,5,masha,1000
+5,masha,6,dasha,400
+7,boris,8,anton,250
+7,boris,9,ivan,330
+1,vanya,4,katya,111
+1,vanya,5,masha,333
+11,ivan,10,vanya,5555
+4,katya,-1,kassa,11111
+5,masha,-1,kassa,12222
+8,anton,-1,kassa,1333
+9,ivan,-1,kassa,1444
+7,boris,-1,kassa,6666
